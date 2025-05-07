@@ -26,7 +26,7 @@ I teach computer courses and I’m just starting to dive into the world of Machi
 ## ⚡ Fun Facts
 - I enjoy playing computer games 🎮  
 - I love watching TV series and movies in my free time 🎬  
-- I’m learning English whenever I get the chance 🇬🇧
+- I’m learning English whenever I get the chance
 
 ---
 
