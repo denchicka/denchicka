@@ -15,7 +15,7 @@ I teach computer courses and I’m just starting to dive into the world of Machi
 - **Python** — primary language for scripting, data analysis, and ML
 
 ## 📂 Projects
-> *This section is under development — I’ll add links to repositories as I publish my ML and other projects.*
+> [Diabet predict model](https://github.com/denchicka/Diabet_Predict_Model)
 
 ## 🤝 Collaboration
 > Not actively seeking collaborators right now, but happy to exchange ideas and learn from each other.
