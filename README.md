@@ -16,6 +16,7 @@ I teach computer courses and I’m just starting to dive into the world of Machi
 
 ## 📂 Projects
 > [Diabet predict model](https://github.com/denchicka/Diabet_Predict_Model)
+> [Neuro-teacher RAG](https://github.com/denchicka/NueroTeacher-RAG)
 
 ## 🤝 Collaboration
 > Not actively seeking collaborators right now, but happy to exchange ideas and learn from each other.
