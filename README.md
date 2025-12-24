@@ -20,6 +20,8 @@ I teach computer courses and I’m just starting to dive into the world of Machi
 > [Neuro-teacher RAG](https://github.com/denchicka/NueroTeacher-RAG)
 >
 > [Drone Detection CV model (YOLOv8/v9/v11/ONNX/TFLite)](https://github.com/denchicka/DroneDetection)
+>
+> [Flet AI Chat](https://github.com/denchicka/Flet-AI-Chat)
 
 ## 🤝 Collaboration
 > Not actively seeking collaborators right now, but happy to exchange ideas and learn from each other.
