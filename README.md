@@ -15,13 +15,17 @@ I teach computer courses and I’m just starting to dive into the world of Machi
 - **Python** — primary language for scripting, data analysis, and ML
 
 ## 📂 Projects
-> [Diabet predict model](https://github.com/denchicka/Diabet_Predict_Model)
+> [AI Flutter Chat](https://github.com/denchicka/AiChatFlutter)
+>
+> [Flet AI Chat](https://github.com/denchicka/Flet-AI-Chat)
+> 
+> [Drone Detection CV model (YOLOv8/v9/v11/ONNX/TFLite)](https://github.com/denchicka/DroneDetection)
 > 
 > [Neuro-teacher RAG](https://github.com/denchicka/NueroTeacher-RAG)
 >
-> [Drone Detection CV model (YOLOv8/v9/v11/ONNX/TFLite)](https://github.com/denchicka/DroneDetection)
->
-> [Flet AI Chat](https://github.com/denchicka/Flet-AI-Chat)
+> [Diabet predict model](https://github.com/denchicka/Diabet_Predict_Model)
+
+
 
 ## 🤝 Collaboration
 > Not actively seeking collaborators right now, but happy to exchange ideas and learn from each other.
