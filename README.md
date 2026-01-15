@@ -1,8 +1,11 @@
-#👋 Привет! Меня зовут **Денис Соловьев**
+# 👋 Привет! Меня зовут **Денис Соловьев**
 
 **Data Scientist / ML Engineer**
+
 🌍 Россия, Барнаул
+
 👨‍🏫 Преподаватель компьютерных курсов
+
 📬 Связь: Telegram - **@denchicka213**
 
 ---
@@ -17,48 +20,43 @@
 
 ## 🧠 Проекты
 
-### 📌 AI Chat Flutter
+### 📌 [AI Chat Flutter](https://github.com/denchicka/AiChatFlutter)
 
 Кроссплатформенное приложение для общения с LLM (OpenRouter / VseGPT) с поддержкой streaming-ответов (SSE), локальной истории и аналитики использования.
 
 **Стек:** Flutter, Provider, SQLite, SSE, Secure Storage
-🔗 [https://github.com/denchicka/AiChatFlutter](https://github.com/denchicka/AiChatFlutter)
 
 ---
 
-### 📌 Flet AI Chat
+### 📌 [Flet AI Chat](https://github.com/denchicka/Flet-AI-Chat)
 
 Python-приложение для работы с LLM: мультимодельность, локальное хранение диалогов, уведомления в Telegram и Email, мониторинг ресурсов.
 
 **Стек:** Python, Flet, Asyncio, SQLite, SMTP, Aiogram
-🔗 [https://github.com/denchicka/Flet-AI-Chat](https://github.com/denchicka/Flet-AI-Chat)
 
 ---
 
-### 📌 Обнаружение дронов (Computer Vision)
+### 📌 [Обнаружение дронов (Computer Vision)](https://github.com/denchicka/DroneDetection)
 
 Исследование и реализация пайплайна детекции дронов: обучение и сравнение моделей **YOLOv8 / YOLOv9 / YOLOv11**, экспорт в **ONNX** и **TFLite**, инференс по видео и бенчмарки FPS.
 
 **Стек:** PyTorch, Ultralytics YOLO, OpenCV, ONNX Runtime, TensorFlow Lite
-🔗 [https://github.com/denchicka/DroneDetection](https://github.com/denchicka/DroneDetection)
 
 ---
 
-### 📌 NeuroTeacher RAG
+### 📌 [NeuroTeacher RAG](https://github.com/denchicka/NueroTeacher-RAG)
 
 RAG-ассистент для работы с документами: поиск по базе знаний (Chroma + BM25), модерация запросов, трассировка через Phoenix, интерфейс на Gradio и подсчёт стоимости токенов.
 
 **Стек:** LangChain, Chroma, BM25, Gradio, OpenAI / GigaChat, Phoenix
-🔗 [https://github.com/denchicka/NueroTeacher-RAG](https://github.com/denchicka/NueroTeacher-RAG)
 
 ---
 
-### 📌 Diabetes Prediction (ML)
+### 📌 [Diabetes Prediction (ML)](https://github.com/denchicka/Diabet_Predict_Model)
 
 Baseline-модель бинарной классификации диабета: EDA, обучение Random Forest, подбор гиперпараметров через GridSearchCV, оценка качества и сохранение модели.
 
 **Стек:** Python, pandas, NumPy, scikit-learn, Matplotlib, Plotly, joblib
-🔗 [https://github.com/denchicka/Diabet_Predict_Model](https://github.com/denchicka/Diabet_Predict_Model)
 
 ---
 
