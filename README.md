@@ -1,44 +1,78 @@
-# Hi there, I’m Denis Solovev! 👋
+#👋 Привет! Меня зовут **Денис Соловьев**
 
-I teach computer courses and I’m just starting to dive into the world of Machine Learning. This profile serves as my portfolio and a playground for my hobby projects.
-
----
-
-## 🔭 What I’m Doing
-- Teaching computer courses  
-- Learning Machine Learning (ML)
-
-## 🌱 Currently Learning
-- Fundamentals and practical techniques of ML
-
-## 🛠 Skills
-- **Python** — primary language for scripting, data analysis, and ML
-
-## 📂 Projects
-> [AI Flutter Chat](https://github.com/denchicka/AiChatFlutter)
->
-> [Flet AI Chat](https://github.com/denchicka/Flet-AI-Chat)
-> 
-> [Drone Detection CV model (YOLOv8/v9/v11/ONNX/TFLite)](https://github.com/denchicka/DroneDetection)
-> 
-> [Neuro-teacher RAG](https://github.com/denchicka/NueroTeacher-RAG)
->
-> [Diabet predict model](https://github.com/denchicka/Diabet_Predict_Model)
-
-
-
-## 🤝 Collaboration
-> Not actively seeking collaborators right now, but happy to exchange ideas and learn from each other.
-
-## 📫 How to Reach Me
-- Telegram: [@denchicka213](https://t.me/denchicka213)
-
-## ⚡ Fun Facts
-- I enjoy playing computer games 🎮  
-- I love watching TV series and movies in my free time 🎬  
-- I’m learning English whenever I get the chance
+**Data Scientist / ML Engineer**
+🌍 Россия, Барнаул
+👨‍🏫 Преподаватель компьютерных курсов
+📬 Связь: Telegram - **@denchicka213**
 
 ---
 
-> Thanks for stopping by!  
-> New projects and updates coming soon. 😊
+## 👨‍💻 Кратко обо мне
+
+Я пришёл в программирование через автоматизацию и практические задачи: от скриптов и парсинга до ML- и AI-проектов. За несколько лет прошёл путь от разработки утилит и ботов до обучения нейросетевых моделей, работы с компьютерным зрением и LLM.
+
+Опыт преподавания помог выстроить системное мышление, научил объяснять сложные технические концепции и ориентироваться на реальные потребности пользователей. Сейчас сосредоточен на развитии в области **машинного обучения, CV и RAG-решений**, с упором на практику и воспроизводимые результаты.
+
+---
+
+## 🧠 Проекты
+
+### 📌 AI Chat Flutter
+
+Кроссплатформенное приложение для общения с LLM (OpenRouter / VseGPT) с поддержкой streaming-ответов (SSE), локальной истории и аналитики использования.
+
+**Стек:** Flutter, Provider, SQLite, SSE, Secure Storage
+🔗 [https://github.com/denchicka/AiChatFlutter](https://github.com/denchicka/AiChatFlutter)
+
+---
+
+### 📌 Flet AI Chat
+
+Python-приложение для работы с LLM: мультимодельность, локальное хранение диалогов, уведомления в Telegram и Email, мониторинг ресурсов.
+
+**Стек:** Python, Flet, Asyncio, SQLite, SMTP, Aiogram
+🔗 [https://github.com/denchicka/Flet-AI-Chat](https://github.com/denchicka/Flet-AI-Chat)
+
+---
+
+### 📌 Обнаружение дронов (Computer Vision)
+
+Исследование и реализация пайплайна детекции дронов: обучение и сравнение моделей **YOLOv8 / YOLOv9 / YOLOv11**, экспорт в **ONNX** и **TFLite**, инференс по видео и бенчмарки FPS.
+
+**Стек:** PyTorch, Ultralytics YOLO, OpenCV, ONNX Runtime, TensorFlow Lite
+🔗 [https://github.com/denchicka/DroneDetection](https://github.com/denchicka/DroneDetection)
+
+---
+
+### 📌 NeuroTeacher RAG
+
+RAG-ассистент для работы с документами: поиск по базе знаний (Chroma + BM25), модерация запросов, трассировка через Phoenix, интерфейс на Gradio и подсчёт стоимости токенов.
+
+**Стек:** LangChain, Chroma, BM25, Gradio, OpenAI / GigaChat, Phoenix
+🔗 [https://github.com/denchicka/NueroTeacher-RAG](https://github.com/denchicka/NueroTeacher-RAG)
+
+---
+
+### 📌 Diabetes Prediction (ML)
+
+Baseline-модель бинарной классификации диабета: EDA, обучение Random Forest, подбор гиперпараметров через GridSearchCV, оценка качества и сохранение модели.
+
+**Стек:** Python, pandas, NumPy, scikit-learn, Matplotlib, Plotly, joblib
+🔗 [https://github.com/denchicka/Diabet_Predict_Model](https://github.com/denchicka/Diabet_Predict_Model)
+
+---
+
+## 🎯 Цель
+
+Развиваться в роли **Data Scientist / ML Engineer**, участвовать в создании AI-продуктов и решений, ориентированных на реальных пользователей и измеримые результаты.
+
+---
+
+## 🎓 Образование и курсы
+
+* **2025** - «Разработчик нейросетей», The Founder (повышение квалификации)
+* **2022 - н.в.** — Преподаватель компьютерных курсов (Python, C#, Lua)
+* **2021** - Среднее специальное образование - Колледж
+Направление: информационные технологии / программирование
+Специальность: Техник-программист
+Изучал алгоритмы, базы данных и основы сетевых технологий.
